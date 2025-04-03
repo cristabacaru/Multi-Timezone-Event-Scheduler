@@ -29,13 +29,7 @@ Reverses the processes from Tasks 1 and 3 by converting a given time and date ba
 ### Task 6: Formatted Output
 Displays the calculated date and time in a formatted manner. Ensures that single-digit days and months are prefixed with a "0" for consistent output.
 
-### Task 7: Bitwise Operations for Date Encoding
-Implements a bitwise approach to encode and decode date information. It uses masks and shifts to retrieve day, month, and year information from encoded data.
-
-### Task 8: Data Integrity Verification
-Reads and verifies encrypted data against control bits to ensure data integrity. Valid entries are stored separately, and a method to decode the data is applied using the logic from Task 7.
-
-### Task 9: Free Time Slot Finder
+### Task 7: Free Time Slot Finder
 Collects and processes availability data from participants to identify common free time slots for events. It sorts timestamps for quick access and checks for available time slots that meet the duration requirement of the event, ensuring the minimum number of required participants is met.
 
 ## Getting Started
